@@ -7,13 +7,13 @@
 ## Project Structure
 
 ### Source Files
-`NTAPI-Injector.c` - the main file with the logic for the TinyAES implementation and NTAPI Injection
-`aes.c` - the main file for TinyAES
+1. `NTAPI-Injector.c` - the main file with the logic for the TinyAES implementation and NTAPI Injection
+2. `aes.c` - the main file for TinyAES
 
 ### Header Files
 
-`aes.h` - header file for TinyAES
-`handBag.h` - header file containing NTAPI definitions 
+3. `aes.h` - header file for TinyAES
+4. `handBag.h` - header file containing NTAPI definitions 
 
 
 
