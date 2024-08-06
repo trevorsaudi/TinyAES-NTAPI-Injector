@@ -4,4 +4,16 @@
 
 ![Running Code](img.jpg)
 
-`asdasd`
+## Project Structure
+
+### Source Files
+`NTAPI-Injector.c` - the main file with the logic for the TinyAES implementation and NTAPI Injection
+`aes.c` - the main file for TinyAES
+
+### Header Files
+
+`aes.h` - header file for TinyAES
+`handBag.h` - header file containing NTAPI definitions 
+
+
+
